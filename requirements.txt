@@ -1,4 +1,8 @@
-django
-djangorestframework
-markdown
-django-filter
+Django==1.9.1
+Markdown==2.6.5
+dj-database-url==0.3.0
+django-filter==0.11.0
+djangorestframework==3.3.2
+gunicorn==19.4.5
+whitenoise==2.0.6
+wsgiref==0.1.2
